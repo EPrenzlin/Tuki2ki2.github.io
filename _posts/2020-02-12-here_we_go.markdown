@@ -1,12 +1,11 @@
 ---
 layout: post
 title:      "Here we go. "
-date:       2020-02-12 21:41:59 +0000
+date:       2020-02-12 16:42:00 -0500
 permalink:  here_we_go
 ---
 
 
-"#Here we go". 
 
 Typically, I am a relatively private person. I’m not accustomed to sharing my thoughts, let alone in a blog format for the world to see. 
 
