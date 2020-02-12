@@ -1,0 +1,22 @@
+---
+layout: post
+title:      "Here we go. "
+date:       2020-02-12 21:41:59 +0000
+permalink:  here_we_go
+---
+
+
+"#Here we go". 
+
+Typically, I am a relatively private person. I’m not accustomed to sharing my thoughts, let alone in a blog format for the world to see. 
+
+But… here goes: 
+Creative is not a word that I would use to describe myself. By virtue of my personality, my habits,  hobbies, and even my day-job, the arenas where I am able to express my creative side or even create somethig are severely limited. To give an idea of my day-job, I currently work in the trading floor at an Investment Bank. Regulatory text review, internal audit meetings, Marketing document review, and other such activities are part of my day-job ; there are very few opportunities to be creative ( without having some repercussions anyway...  )  
+
+Prior to experimenting with a little code, I would have never guessed that coding is in itself a creative endeavour. Wrongly, I presumed all the typical stereotypes relating to coding ( maths, more maths,  and all things technical, which required a Computer science degree to actually understand). How wrong I was. Don’t get me wrong, it’s technically difficult, and there are many occasions already where I’ve questioned this decision or wanted to throw my Mac at a wall. However, on the whole, even at this stage of my journey, I feel like this is a path that will allow me create, be creative, and be able to express myself fully; this course will allow me to have the skills to build something from scratch. 
+
+If I really hone into the reason why I’ve started down this path, it would be the ability to built something with my own hands: it is an immensely satisfying feeling of accomplishment compared to continuously reviewing other peoples work, analysis, or documents. 
+
+I very much look forward to the day when I can build something fully from scratch myself.  
+
+  
