@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Full Metal Alchemist CLI "
-date:       2020-04-21 18:36:50 +0000
+date:       2020-04-21 14:36:51 -0400
 permalink:  full_metal_alchemist_cli
 ---
 
@@ -33,6 +33,7 @@ Therefore, I had to reformat the accompying methods. I settled for the the below
 
 ```
 def self.chapter_link(number) 
+#number corresponds to the user-selecting an Alchemist to view some information on.
 link = nil
     Alchemist.all.each_with_index do |alchemist,i|
     if i == number.to_i 
@@ -50,6 +51,7 @@ This was to be used in conjuction with :
 def self.chapter_info(number)
 input = number.to_i
 link = self.chapter_link(number)
+#here we use the link as the argument itself, which replaces the former name argument 
 Webscraper.get_chapter_info(link)
 end
 ```
